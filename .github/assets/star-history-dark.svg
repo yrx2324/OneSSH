@@ -16,11 +16,11 @@
 <text x="56" y="141.0" fill="#94a3b8" font-size="11" text-anchor="end">3</text>
 <line x1="68" y1="64.0" x2="812" y2="64.0" stroke="#1e293b" stroke-width="1"/>
 <text x="56" y="68.0" fill="#94a3b8" font-size="11" text-anchor="end">4</text>
-<text x="68.0" y="378.0" fill="#94a3b8" font-size="11" text-anchor="start">Aug 12 02:33</text>
-<text x="254.0" y="378.0" fill="#94a3b8" font-size="11" text-anchor="middle">Aug 12 08:33</text>
-<text x="440.0" y="378.0" fill="#94a3b8" font-size="11" text-anchor="middle">Aug 12 14:33</text>
-<text x="626.0" y="378.0" fill="#94a3b8" font-size="11" text-anchor="middle">Aug 12 20:33</text>
-<text x="812.0" y="378.0" fill="#94a3b8" font-size="11" text-anchor="end">Aug 13 02:33</text>
+<text x="68.0" y="378.0" fill="#94a3b8" font-size="11" text-anchor="start">Aug 12 05:09</text>
+<text x="254.0" y="378.0" fill="#94a3b8" font-size="11" text-anchor="middle">Aug 12 11:09</text>
+<text x="440.0" y="378.0" fill="#94a3b8" font-size="11" text-anchor="middle">Aug 12 17:09</text>
+<text x="626.0" y="378.0" fill="#94a3b8" font-size="11" text-anchor="middle">Aug 12 23:09</text>
+<text x="812.0" y="378.0" fill="#94a3b8" font-size="11" text-anchor="end">Aug 13 05:09</text>
 <line x1="68" y1="356" x2="812" y2="356" stroke="#334155" stroke-width="1"/>
 <text x="420" y="210" fill="#94a3b8" font-size="13" text-anchor="middle">还没有 star 数据</text>
 </g></svg>
