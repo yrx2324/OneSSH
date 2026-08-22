@@ -5,7 +5,7 @@
 <text x="68" y="32" fill="#e2e8f0" font-size="17" font-weight="600">yrx2324/OneSSH</text>
 <text x="68" y="50" fill="#94a3b8" font-size="12">Star History</text>
 <text x="812" y="32" fill="#2dd4bf" font-size="20" font-weight="700" text-anchor="end">★ 0</text>
-<text x="812" y="50" fill="#94a3b8" font-size="11" text-anchor="end">updated 2026-08-21</text>
+<text x="812" y="50" fill="#94a3b8" font-size="11" text-anchor="end">updated 2026-08-22</text>
 <line x1="68" y1="356.0" x2="812" y2="356.0" stroke="#1e293b" stroke-width="1"/>
 <text x="56" y="360.0" fill="#94a3b8" font-size="11" text-anchor="end">0</text>
 <line x1="68" y1="283.0" x2="812" y2="283.0" stroke="#1e293b" stroke-width="1"/>
@@ -16,11 +16,11 @@
 <text x="56" y="141.0" fill="#94a3b8" font-size="11" text-anchor="end">3</text>
 <line x1="68" y1="64.0" x2="812" y2="64.0" stroke="#1e293b" stroke-width="1"/>
 <text x="56" y="68.0" fill="#94a3b8" font-size="11" text-anchor="end">4</text>
-<text x="68.0" y="378.0" fill="#94a3b8" font-size="11" text-anchor="start">Aug 21 04:05</text>
-<text x="254.0" y="378.0" fill="#94a3b8" font-size="11" text-anchor="middle">Aug 21 10:05</text>
-<text x="440.0" y="378.0" fill="#94a3b8" font-size="11" text-anchor="middle">Aug 21 16:05</text>
-<text x="626.0" y="378.0" fill="#94a3b8" font-size="11" text-anchor="middle">Aug 21 22:05</text>
-<text x="812.0" y="378.0" fill="#94a3b8" font-size="11" text-anchor="end">Aug 22 04:05</text>
+<text x="68.0" y="378.0" fill="#94a3b8" font-size="11" text-anchor="start">Aug 22 04:00</text>
+<text x="254.0" y="378.0" fill="#94a3b8" font-size="11" text-anchor="middle">Aug 22 10:00</text>
+<text x="440.0" y="378.0" fill="#94a3b8" font-size="11" text-anchor="middle">Aug 22 16:00</text>
+<text x="626.0" y="378.0" fill="#94a3b8" font-size="11" text-anchor="middle">Aug 22 22:00</text>
+<text x="812.0" y="378.0" fill="#94a3b8" font-size="11" text-anchor="end">Aug 23 04:00</text>
 <line x1="68" y1="356" x2="812" y2="356" stroke="#334155" stroke-width="1"/>
 <text x="420" y="210" fill="#94a3b8" font-size="13" text-anchor="middle">还没有 star 数据</text>
 </g></svg>
